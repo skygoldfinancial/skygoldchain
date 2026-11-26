@@ -1,0 +1,22 @@
+{
+  "name": "SkyGold Chain",
+  "chainId": 22018,
+  "shortName": "sgold",
+  "networkId": 22018,
+  "nativeCurrency": {
+    "name": "SkyGold",
+    "symbol": "SGOLD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://YOUR_RPC_URL"
+  ],
+  "explorers": [
+    {
+      "name": "SkyGold Explorer",
+      "url": "https://YOUR_EXPLORER_URL",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://YOUR_WEBSITE"
+}
